@@ -1,8 +1,8 @@
 {
   "IsEncrypted": false,
   "Values": {
-    "MyAccount_COSMOSDB": "AccountEndpoint=https://dbaccountdatabase.documents.azure.com:443/;AccountKey=sx4MnOELETAIDf34bDXkD4S2SLQ4S8QfE2M2fsZXeZoZvM2zTnEbyDGtLwkgrW5Dmde6WeaJCgOrACDbQSU5Jw==;",
-    "ACS_ConnectionString": "endpoint=https://videocallservices.unitedstates.communication.azure.com/;accesskey=NubCUY1R8cNzRKgtQsGIsY6zJv6nQHIVqXOseQETCqbmyY9BFiVQa2+uIcpOen+kzQkt8nyFdYbbUrRa2DuNoQ==",
+    "MyAccount_COSMOSDB": ",
+    "ACS_ConnectionString": ",
     "FUNCTIONS_WORKER_RUNTIME": "node"
   }
 }
