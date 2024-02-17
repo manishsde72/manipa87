@@ -111,7 +111,7 @@ This demo uses the [Babylon.js WebGL engine](https://www.babylonjs.com) supporti
 
 ## Running it on your dev machine
 
-If you clone the repo on your developer machine, here are the steps to make it works:
+If you clone the repo on your developer machine, here are the steps to make it works:e
 
 - ```npm install``` -> this will install Webpack, some Azure Communication Services modules & the Azure Static Web App simulator & CLI
 - Rename *local.settings.sample.json* to *local.settings.json* and fill the 2 properties with the Azure Communication Services & CosmosDB connection strings you'll find in the Azure Portal
